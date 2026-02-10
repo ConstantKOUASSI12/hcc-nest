@@ -25,7 +25,7 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
-## Project setup
+## Project description
 
 Le H.C.C, club de handball de la ville de Comines, était un petit club local avec seulement
 quelques adhérents. Les informations étaient échangées de manière informelle, par le biais
